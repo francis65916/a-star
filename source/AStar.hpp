@@ -8,6 +8,7 @@
 
 #include <vector>
 #include <functional>
+#include <cmath>
 #include <set>
 
 namespace AStar
